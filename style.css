@@ -232,6 +232,13 @@ img.admin {
     text-shadow: 2px 5px 3px rgba(0, 0, 0, 0.06);
     margin: 0.5em 0 3em 0;
 }
+.inner-vv-wrap {
+    margin: 0 auto;
+    width: 55%;
+    padding-top: 4em;
+    text-align: center;
+
+}
 /*--- Header ---*/
 .header {
   padding-block: 50px;
