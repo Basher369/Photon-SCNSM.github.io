@@ -20,7 +20,8 @@ body a {
     padding-block: 50px;
     position: centre;
     top: 20;
-    left: 25;
+    left: 50;
+    right: 50;
     width: 100%;
     transition: var(--transition-1);
     z-index: 5;
